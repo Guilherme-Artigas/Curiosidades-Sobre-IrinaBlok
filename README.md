@@ -1,6 +1,6 @@
 # Curiosidades sobre Irina Blok (criadora do Bug Droid)
 
-- [Link Para o Projeto](https://guilherme-artigas.github.io/Curiosidades-Sobre-IrinaBlok/)
+- [Link Para o Projeto](https://guilherme-artigas.github.io/Projeto-Sobre-IrinaBlok/)
 
 Esse projeto foi desenvolvido no acompanhamento do curso de HTML e CSS do [Curso em Video](https://www.cursoemvideo.com/) módulo 2, todo o texto e imagens foram fornecidas pelo professor Gustavo Guanabara, porém, o projeto foi proposto como aplicação prática de conhecimento de todo o conteúdo que foi visto durante as aulas, ou seja, o projeto foi idealizado pelo professor, porém o desenvolvimento do código foi feito por mim, com algumas correções feitas posteriormente com código original do professor.
 
